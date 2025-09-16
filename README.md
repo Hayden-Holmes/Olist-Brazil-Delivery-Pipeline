@@ -30,9 +30,9 @@ with modeling used primarily to validate the pipeline rather than to chase the h
 
 | Artifact                                                      | Link                                                         |
 | ------------------------------------------------------------- | ------------------------------------------------------------ |
-| Feature Importance – **Delivery Delay (XGBoost)**             | [delivery\feature_importance.png](results\ML\delivery_prediciton\feature_importance.png) |
-| Feature Importance – **Customer Churn (Logistic Regression)** | [churn\lr\feature_importance.png](results\ML\churn_prediction\logistic_regression_V1\coefficients.png)     |
-| Feature Importance – **Customer Churn (Random Forest)**       | [churn\rf\feature_importance.png](results\ML\churn_prediction\random_forest_V1\coefficients.png)     |
+| Feature Importance – **Delivery Delay (XGBoost)**             | [delivery\feature_importance.png](results/ML/delivery_prediciton/feature_importance.png) |
+| Feature Importance – **Customer Churn (Logistic Regression)** | [churn\lr\feature_importance.png](results/ML/churn_prediction/logistic_regression_V1/coefficients.png)     |
+| Feature Importance – **Customer Churn (Random Forest)**       | [churn\rf\feature_importance.png](results/ML/churn_prediction/random_forest_V1/coefficients.png)     |
 | **Orders Heatmap** (geographic order density)                 | [orders\heatmap.png](results\heatmap\brazil_heatmap.html)                    |
 
 
