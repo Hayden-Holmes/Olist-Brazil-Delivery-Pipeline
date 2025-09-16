@@ -1,0 +1,39 @@
+# ---- Python standard ----
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.eggs/
+dist/
+build/
+pip-wheel-metadata/
+*.manifest
+*.spec
+.env
+.venv/
+venv/
+env/
+*.log
+*.sqlite3
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# ---- OS / Editors ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---- Data files ----
+# Raw Olist CSVs or large outputs downloaded from S3
+data/
+*.csv
+*.parquet
+*.zip
+
+*.joblib
+
+
